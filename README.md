@@ -1,4 +1,4 @@
 # devopsclass
 a sample repository for devops
 
-making this change 
+I have removed the line that was here before
